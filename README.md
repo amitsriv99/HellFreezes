@@ -1,5 +1,5 @@
-HellFreezes
-===========
+Hell Freezes
+============
 
 My first GitHub repository
 
